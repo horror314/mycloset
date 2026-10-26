@@ -1,0 +1,15 @@
+{
+  "name": "StyleVault Digital Wardrobe",
+  "short_name": "StyleVault",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#556B2F",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
